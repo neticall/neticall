@@ -4,5 +4,6 @@
 > ✔️ Android developer...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neticall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neticall&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neticall&show_icons=true)
+
 
