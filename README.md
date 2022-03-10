@@ -11,11 +11,10 @@
 ![alt text](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### My favorite programming languages  
+###### My favorite programming languages  
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![alt text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### My favorite tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neticall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
