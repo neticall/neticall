@@ -21,5 +21,4 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android Programing")
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white "َUbuntu")
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neticall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+{::[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neticall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)}
